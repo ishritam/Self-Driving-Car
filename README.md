@@ -10,6 +10,9 @@ Refer this: https://github.com/SullyChen/Autopilot-TensorFlow
 
 There are total 45406 images in the dataset along with their steering angles. We will split the dataset into train and test in a ratio of 70:30 sequentially.
 
+# Model Preview
+![image](https://user-images.githubusercontent.com/40149802/65964220-16224b00-e47a-11e9-92c8-48a2e07014e9.png)
+
 You can download my final model from here: https://drive.google.com/drive/folders/1aw827ecHqYAHr9kdPTpyC6lfX39J1sgV?usp=sharing
 
 # Objective
