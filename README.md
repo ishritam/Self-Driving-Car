@@ -22,6 +22,7 @@ Python 3: https://www.python.org/downloads/
 Anaconda: It will install ipython notebook and most of the libraries which are needed like pandas, matplotlib, numpy and scipy: https://www.anaconda.com/download/
 
 * Libraries:
+
 Tensorflow: It is a deep learning library.
 pip install tensorflow
 
